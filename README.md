@@ -23,7 +23,7 @@ Review June and December temperature data for Oahu, HI; determine whether a prop
 
 In addition to the above descriptive statistics, we also took a look at statistics for each day of the week in June and December. 
 
-Unsurprisingly, June temperatures in Oahu, HU are - on the whole - slightly higher than temperatures in December. However, we consider these differences to be negligible, especially when looking at the data for each day of the week for these months. In particular, let's look at Saturdays and Sundays, which have the highest and second-highest mean temperatures at 71.4F and 71.3F, i.e. people are more likely to be off for, making these prime days for surfing _and_ ice-cream customers.
+Unsurprisingly, June temperatures in Oahu, HU are - on the whole - slightly higher than temperatures in December. However, we consider these differences to be negligible, especially when looking at the data for each day of the week for these months. In particular, let's look at Saturdays and Sundays, which have the highest and second-highest mean temperatures at 71.4°F and 71.3°F, i.e. people are more likely to be off for, making these prime days for surfing _and_ ice-cream customers.
 
 Additionally, these two high-profile surf competitions occur throughout December (and beyond).
 * [Triple Crown of Surfing](https://en.wikipedia.org/wiki/Triple_Crown_of_Surfing)
